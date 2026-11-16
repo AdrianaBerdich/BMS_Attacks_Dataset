@@ -40,7 +40,7 @@ The full release contains:
 - 34 processed CSV files in total;
 - the corresponding raw CAN logs.
 
-Due to their size, the dataset files are hosted externally and can be accessed using the following link
+Due to their size, the dataset files are hosted externally and can be accessed using the links provided in the *Dataset download* section below.
 
 ## Folder structure
 
@@ -48,11 +48,11 @@ Due to their size, the dataset files are hosted externally and can be accessed u
 |
 |------ Dataset
 |       |------ BMS_IDS_Vector_replay_csv
-|       |       |------ FTP75
 |       |       |------ WLTC
+|       |       |------ FTP75
 |       |------ BMS_IDS_Matlab
-|       |       |------ FTP75
 |       |       |------ WLTC
+|       |       |------ FTP75
 ```
 
 
@@ -145,7 +145,7 @@ The main attack targets use the following messages:
 | Torque command | VCU | Front MCU | `0x23B` | 10 ms |
 | Torque command | VCU | Rear MCU | `0x24A` | 10 ms |
 
-The complete matrix is available in [`supplementary/SUPPLEMENTARY.md`](supplementary/SUPPLEMENTARY.md).
+The complete matrix is available in [`Supplementary/Supplementary.pdf`](Supplementary/Supplementary.pdf).
 
 ## Supplementary material
 
@@ -156,14 +156,14 @@ The supplementary material contains:
 - detailed WLTC and FTP75 results for KNN, Decision Tree, Gaussian Naive Bayes, and XGBoost;
 - TP, TN, FP, FN, FPR, FNR, TPR, TNR, accuracy, precision, and F1-score for each evaluated configuration.
 
-See [`supplementary/SUPPLEMENTARY.md`](supplementary/SUPPLEMENTARY.md).
+See [`Supplementary/Supplementary.pdf`](Supplementary/Supplementary.pdf).
 
 ## Dataset download
 
 Due to their size, the processed CSV traces and raw CAN logs are hosted externally.
 
-- **Processed CSV traces:** 
-- **Raw CAN logs:** 
+- **Processed CSV traces:** OneDrive: [`BMS_IDS_Vector_replay_csv`](https://uptro29158-my.sharepoint.com/:u:/g/personal/adriana_berdich_upt_ro/IQD3QyVsPA3NRJZvTGsMK8g5AeDpJd9Y3R-0Hs6U4Go_9fg?e=dSfhc0) (631MB)
+- **Raw CAN logs:** OneDrive: [`BMS_IDS_Matab`](https://uptro29158-my.sharepoint.com/:u:/g/personal/adriana_berdich_upt_ro/IQA4AU8PKvEBS7e5WCWtzMQOAUQZk_2rJ1eZoUkUQcKT46g?e=4xEFcy) (357MB)
 
 ## Contact
 
