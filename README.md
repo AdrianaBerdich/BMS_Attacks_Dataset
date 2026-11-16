@@ -1,4 +1,4 @@
-# BEV CAN Attack Dataset
+# BMS Attacks Dataset
 
 The dataset available in this repository contains the vehicle and CAN data used in our paper: **Detecting Attacks on Electric Vehicle Battery Management Systems and Powertrain Control: From Residual Checks to Black-Box Machine Learning**.
 
