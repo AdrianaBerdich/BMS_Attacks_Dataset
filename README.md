@@ -162,8 +162,10 @@ See [`Supplementary/Supplementary.pdf`](Supplementary/Supplementary.pdf).
 
 Due to their size, the processed CSV traces and raw CAN logs are hosted externally.
 
-- **Processed CSV traces:** OneDrive: [`BMS_IDS_Vector_replay_csv`](https://uptro29158-my.sharepoint.com/:u:/g/personal/adriana_berdich_upt_ro/IQD3QyVsPA3NRJZvTGsMK8g5AeDpJd9Y3R-0Hs6U4Go_9fg?e=dSfhc0) (631MB)
-- **Raw CAN logs:** OneDrive: [`BMS_IDS_Matab`](https://uptro29158-my.sharepoint.com/:u:/g/personal/adriana_berdich_upt_ro/IQA4AU8PKvEBS7e5WCWtzMQOAUQZk_2rJ1eZoUkUQcKT46g?e=4xEFcy) (357MB)
+- **Processed CSV traces:** [`Download from OneDrive`](https://uptro29158-my.sharepoint.com/:u:/g/personal/adriana_berdich_upt_ro/IQD3QyVsPA3NRJZvTGsMK8g5AeDpJd9Y3R-0Hs6U4Go_9fg?e=dSfhc0) or [`download from the university website`](https://www.aut.upt.ro/~bgroza/projects/BMS_IDS_Vector_replay_csv.zip)  
+  Size: 631 MB compressed ZIP; 3.65 GB uncompressed.
+- **Raw CAN logs:** [`Download from OneDrive`](https://uptro29158-my.sharepoint.com/:u:/g/personal/adriana_berdich_upt_ro/IQA4AU8PKvEBS7e5WCWtzMQOAUQZk_2rJ1eZoUkUQcKT46g?e=4xEFcy) or [`download from the university website`](https://www.aut.upt.ro/~bgroza/projects/BMS_IDS_Matlab.zip)  
+  Size: 357 MB compressed ZIP; 4.03 GB uncompressed.
 
 ## Contact
 
